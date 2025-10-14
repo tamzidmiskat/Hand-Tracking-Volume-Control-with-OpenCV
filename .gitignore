@@ -1,0 +1,6 @@
+# Python environment and cache
+__pycache__/
+mp_env/
+*.pyc
+# Temporary files
+*-Copy.py
